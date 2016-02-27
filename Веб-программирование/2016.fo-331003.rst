@@ -62,7 +62,7 @@
      -
    * - 5
      - Легаев Максим
-     -
+     -`GnaTuk <https://github.com/Gnatuk>`_
      -
      -
      -
